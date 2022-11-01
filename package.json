@@ -1,0 +1,13 @@
+{
+  "name": "crkt-core",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.2.0"
+  },
+  "dependencies": {
+    "nanoutils": "^0.2.0",
+    "setasap": "^2.0.1",
+    "uuid": "^9.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+export const log = (label = 'out') => value => console.log(`${label}:`,value);
