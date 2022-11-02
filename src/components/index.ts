@@ -16,4 +16,6 @@ export * from './Muxer';
 export * from './Repeater';
 export * from './Serializer';
 export * from './SortedDemuxer';
+export * from './Ticker';
+export * from './UniqueFilter';
 export * from './Logger';
